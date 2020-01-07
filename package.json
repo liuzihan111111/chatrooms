@@ -1,0 +1,16 @@
+{
+  "name": "chatrooms",
+  "version": "1.0.0",
+  "description": "多人聊天室",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liuzihan",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.4.4",
+    "socket.io": "^2.3.0"
+  }
+}
